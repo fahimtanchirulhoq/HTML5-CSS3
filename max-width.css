@@ -1,0 +1,10 @@
+.box {
+
+background: black;
+width: 200px;
+}
+.box img {
+
+max-width: 100%;
+
+}

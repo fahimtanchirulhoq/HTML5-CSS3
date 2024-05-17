@@ -1,0 +1,16 @@
+ body{background:url(image/download2.jpeg);
+background-size: cover;}
+/*background:blue;
+background-size:contain;
+*/
+ 
+ .about{
+ border: 2px solid yellow;
+ width: 300px;
+ height: 400px;
+color: red;
+background:url(image/download1.jpeg);
+background-repeat:no-repeat;
+background-size: ;
+background-size: cover;
+}

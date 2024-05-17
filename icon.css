@@ -1,0 +1,33 @@
+about {
+    width: 300px;
+
+   
+    
+        font-weight: normal;
+        font-style: ;
+        letter-spacing: 1px;
+        
+        font-family: 'Montserrat', sans-serif;
+    
+    }
+.about  {
+ text-transform:uppercase ;
+}    
+
+.googlelink{
+    text-decoration: none;
+    font-style: ;
+    
+}
+.googlelink:visited {
+
+    color: red;
+
+}
+.googlelink:active {
+
+    color: blue;
+}
+.googlelink:hover{
+    color: aqua;
+}

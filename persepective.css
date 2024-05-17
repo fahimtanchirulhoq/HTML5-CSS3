@@ -1,0 +1,10 @@
+.div2{
+    background: tomato;
+    color: white;
+    font-family: arial;
+    font-size: 30px;
+    padding: 20px;
+    width: 400px;
+    text-align: center;
+    text-transform: uppercases;
+}

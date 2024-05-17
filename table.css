@@ -1,0 +1,31 @@
+.salarysheet {
+
+    border-collapse: collapse;
+    border-color: rgb(0, 255, 42);
+
+}
+
+.salarysheet tbody tr td {
+    padding: 10px;
+
+}
+.salarysheet thead tr th {
+    padding: 20px;
+}
+.salarysheet thead th {
+background: rgb(255, 0, 234);
+
+
+}
+.salarysheet tbody tr:nth-child(odd) {
+   background: gray;
+}
+
+.salarysheet tbody tr:nth-child(even) {
+    background: rgb(19, 44, 189);
+ }
+
+ .box{
+    background: black;
+    width: 1000px;
+ } 

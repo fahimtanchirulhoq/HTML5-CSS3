@@ -1,0 +1,31 @@
+/* .headline{
+    background:#444;colour:white;font-size: 40px; font-family:arial black;
+    text-align:center:}
+.menu{ background:#ddd;colour:black;font-size: 16px; font-family:arial;
+    text-align:center; padding: 30px;
+}
+.footer{background:#ddd;colour:white;font-size: 16px; font-family:arial black;
+    text-align:center;padding:30px;
+}
+
+.sidebar{background:black;colour:white;font-size: 16px;}
+.content{ background:white;colour:black;font-size: 16px;
+
+} 
+*/
+ .headline{
+    background:#444;colour:white;font-size: 40px; font-family:arial black;
+    text-align:center:}
+.menu{ background:#ddd;colour:black;font-size: 16px; font-family:arial;
+    text-align:center; padding: 30px;
+}
+.footer{background:#ddd;colour:white;font-size: 16px; font-family:arial black;
+    text-align:center;padding:30px;
+}
+
+.sidebar{background:rgb(10, 38, 174);colour:white;font-size: 16px; width:305px;float:left;}
+.contentarea{ background:rgb(212, 87, 87);colour:black;font-size: 16px; width:745px;float:right; padding:60px} 
+
+.allover{width: 1170px; margin:auto;}
+
+.sidebarandcontent{overflow:hidden;}

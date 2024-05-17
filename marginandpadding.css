@@ -1,0 +1,23 @@
+.marginandpadding{
+   /*
+    border:20px solid black;
+    padding-top:40px;
+    padding-left:60px;
+    padding-right:30px;
+    margin: 150px;*/
+
+
+    border:100px solid black;
+    height: 100px;
+    width: 100px;
+    background:tomato;
+    color:white;
+    border-radius: 100%;
+    outline: 10px solid yellow;
+    
+    
+    
+
+
+
+}

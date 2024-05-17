@@ -1,0 +1,10 @@
+.about{
+    background: linear-gradient(rgba(255, 0, 0, 0.448),rgba(26, 255, 0, 0.514)) ,url(image/download3.jpeg);
+    height: 400px;
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+.about h1{
+color: yellow;
+    font-family: Arial black;
+}

@@ -1,0 +1,42 @@
+/*
+.bdtitle{color:rgb(224, 152, 19);
+font-size: 20px;
+text-transform: uppercase;
+font-family: arriale balck;
+
+}
+*/
+
+.bdtitle{
+
+    /*border-width:2px;
+    border-style: solid;
+    border-color: red;
+
+    font-size: 30px;
+*/
+/*
+ font-size: 30px;
+
+color: orange;
+ border: 2px solid black;
+
+*/
+font-size: 60px;
+
+
+color: orange;
+border-left: 2px solid red;
+border-right: 4px solid blue;
+border-top: 3px solid blue;
+border-bottom: 4px solid black;
+
+background: linear-gradient(blue,red,yellow); 
+
+
+
+
+
+
+
+}
